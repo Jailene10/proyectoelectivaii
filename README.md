@@ -1,3 +1,25 @@
+
+# Proyecto electiva Disciplinar II - Backend
+
+## Integrantes 
+* Jailene Molina Gutierrez [@Jailene10] (https://github.com/Jailene10)
+* Yuliana Escorcia Barrios [@YulianaMaria] (https://github.com/YulianaMaria)
+* Dorleydis Sandoval Carranza [@Megane160](https://github.com/Megane160)
+
+
+## Sprint #1
+
+### Historia de Usuario ED 001
+
+![](imagenes/SAVE_20230318_182735.jpg)
+
+## Sprint #2
+
+### Historia Tecnica EDD 002
+
+![](imagenes/SAVE_20230318_182741.jpg)
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
